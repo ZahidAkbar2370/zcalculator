@@ -1,5 +1,5 @@
 {
-    "name": "zcalculator",
+    "name": "zahid/zcalculator",
     "description": "Z-Calculator By Zahid Akbar",
     "require": {
         "another-vendor/package": "1.*"
